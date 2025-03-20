@@ -14,7 +14,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-link>
+   git clone <https://github.com/Enver-Onur-Cogalan/Mini-Challenge-Counter/tree/main>
    cd counter-app
    ```
 
